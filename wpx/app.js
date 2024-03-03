@@ -8,7 +8,7 @@
     projectId: "ezra-cx",
     storageBucket: "ezra-cx.appspot.com",
     messagingSenderId: "462008545919",
-    appId: "1:590831773559:android:94f809fc01b3296e7be372"
+    appId: "1:462008545919:android:79f2750273f1935c0fc54a"
   }; 
  
 ////Do Not Edit Below This
